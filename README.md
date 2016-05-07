@@ -6,47 +6,43 @@ Bunun için aşağıdaki adımları yapmakla başlayalım.
 
 İlk olarak repo forklanır.
 
-![1](Ekran_Fotolari/resim1.jpeg)
+![1](images/image1.jpeg)
 
 Forkladıktan sonra repo sizin repolarınıza eklenmiştir.
 
-![2](Ekran_Fotolari/resim2.jpeg)
+![2](images/image2.jpeg)
 
 Değişiklikleri yapabilmek için repoyu lokalinize çekmeniz gerekmektedir.
 Aşağıdaki resimde gösterilen adresi kopyaladıktan sonra sırasıyla aşağıdaki adımları yapalım.
 
-![3](Ekran_Fotolari/resim3.jpeg)
+![3](images/image3.jpeg)
 
-* mkdir Github/Test-Repo
- // Github dizini altında Test-Repo dizinini oluşturur.
-
-* cd Test-Repo
-// Dizinin içerisine girilir.
+* cd Github
+ // Github dizinin içerisine girilir.
 
 * git clone https://github.com/hacernur/test-repo.git
  // Kopyalanılan adress
 
 Bu şekilde repo bulunulan dizine çoğaltılır.
 
-Bundan sonra yeni bir branch oluşturup; o brancha geçiş yaptıktan sonra istediğiniz değişiklikleri yapıp commitleyebilirsiniz.
+Bundan sonra yapmak istediğiniz değişiklikleri yapıp commitleyebilirsiniz.
 
-* git checkout -b hacernur
-// hacernur adlı branch oluşturup dala geçiş yaptım.
+Aşağıdaki şekilde hacernur adlı bir python dosyası oluşturdum.
 
 * nano hacernur.py
-// içeriğini istediğiniz gibi doldurabilirsiniz.
+// Dosya adını kendi isminiz olarak değiştirip içeriğini istediğiniz şekilde doldurabilirsiniz.
 
 * git add hacernur.py
-* git commit -m "README.md dosyası güncellendi"
-* git push origin hacernur
+* git commit -m "hacernur dosyası oluşturuldu."
+* git push origin master
 
 Yapılan değişiklikler repoya aktarıldı.
 Şimdi bu yapılan commitler için projenin geliştiricisine aşağıdaki şekilde pull-request açıcağız.
 
-![4](Ekran_Fotolari/resim4.jpeg)
+![4](images/image4.jpeg)
 
 Resimde görüldüğü üzere ** create pull request **  butonuna tıklanır.
 
 Gelen sayfadaki commitlerin sizin tarafınızdan eklenmiş olduğu kontrol edildikten sonra **create pull request** diyerek pull-request açılmış olunur.
 
-![5](Ekran_Fotolari/resim5.jpeg)
+![5](images/image5.jpeg)
