@@ -1,1 +1,1 @@
-
+print ("kursadbilgin")
