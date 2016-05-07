@@ -41,4 +41,12 @@ Bundan sonra yeni bir branch oluşturup; o brancha geçiş yaptıktan sonra iste
 * git push origin hacernur
 
 Yapılan değişiklikler repoya aktarıldı.
-Şimdi bu yapılan commitler için projenin geliştirisine aşağıdaki şekilde pull-request açıcağız.
+Şimdi bu yapılan commitler için projenin geliştiricisine aşağıdaki şekilde pull-request açıcağız.
+
+![4](Ekran_Fotolari/resim4.jpeg)
+
+Resimde görüldüğü üzere ** create pull request **  butonuna tıklanır.
+
+Gelen sayfadaki commitlerin sizin tarafınızdan eklenmiş olduğu kontrol edildikten sonra **create pull request** diyerek pull-request açılmış olunur.
+
+![5](Ekran_Fotolari/resim5.jpeg)
