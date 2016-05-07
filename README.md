@@ -39,10 +39,14 @@ Aşağıdaki şekilde hacernur adlı bir python dosyası oluşturdum.
 Yapılan değişiklikler repoya aktarıldı.
 Şimdi bu yapılan commitler için projenin geliştiricisine aşağıdaki şekilde pull-request açıcağız.
 
+Buradan işaret edilen linke tıklanır.
+
 ![4](images/image4.jpeg)
 
-Resimde görüldüğü üzere ** create pull request **  butonuna tıklanır.
+Ve ** new pull request ** butonuna tıklanır.
+
+![5](images/image5.jpeg)
 
 Gelen sayfadaki commitlerin sizin tarafınızdan eklenmiş olduğu kontrol edildikten sonra **create pull request** diyerek pull-request açılmış olunur.
 
-![5](images/image5.jpeg)
+![5](images/image6.jpeg)
