@@ -1,7 +1,5 @@
-# Test Repo
+# test-repo
 Pull-request, beraber proje geliştirme vb. senaryoların denendiği repo.
-
-## Pull Request
 
 Pull request, projenin geliştiricilerine yaptığınız değişiklikleri onaylarına sunmanızı sağlayan bir tekniktir.
 Bunun için aşağıdaki adımları yapmakla başlayalım.
